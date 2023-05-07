@@ -1,0 +1,14 @@
+body{
+    background-color: #555;
+}
+label{
+    display: inline-block;
+    border:1px solid #222;
+    padding: 30px;
+    color: white;
+    font-family: Arial;
+}
+label input {
+    padding: 10px;
+    margin-left: 10px;
+}
